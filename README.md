@@ -1,7 +1,6 @@
-#Java Automation Project
-##Base point for java Automation projects
+#Java Collections Project
 
-*Project for creating automation test using Selenium webDriver and TestNG.*
+*Project for collections*
 
 **Java 7**
 
